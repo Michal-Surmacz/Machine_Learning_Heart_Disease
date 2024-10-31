@@ -2,7 +2,7 @@
 
 ## **Introduction**
 
-All project available on: XXX
+All project available on: https://www.kaggle.com/code/michalsurmacz/heart-disease-prediction?scriptVersionId=204461580
 
 ### **Goal**
 
